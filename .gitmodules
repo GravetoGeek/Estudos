@@ -1,0 +1,12 @@
+[submodule "Estudos-Rust"]
+	path = Estudos-Rust
+	url = https://github.com/GravetoGeek/Estudos-Rust.git
+[submodule "Estudos-Javascript"]
+	path = Estudos-Javascript
+	url = https://github.com/GravetoGeek/Estudos-Javascript.git
+[submodule "Estudos-C-"]
+	path = Estudos-C-
+	url = https://github.com/GravetoGeek/Estudos-C-.git
+[submodule "Estudos-Python"]
+	path = Estudos-Python
+	url = https://github.com/GravetoGeek/Estudos-Python.git
